@@ -2,7 +2,8 @@
 
 ## 2026年度翻译贡献者名单
 
-* 2026-01-21: [Activity Streams 2.0](https://www.w3.org/TR/2017/REC-activitystreams-core-20170523/) 的志愿者翻译 [Activity Streams 2.0](https://w3c.wholetrans.org/activitystreams-core/) （译者：CDN）
+* 2026-02-17: [Activity Vocabulary](https://www.w3.org/TR/2017/REC-activitystreams-vocabulary-20170523/) 的志愿者翻译 [Activity Vocabulary](https://w3c.wholetrans.org/activitystreams-core/) （译者：cdn0x12 @全译）
+* 2026-01-21: [Activity Streams 2.0](https://www.w3.org/TR/2017/REC-activitystreams-core-20170523/) 的志愿者翻译 [Activity Streams 2.0](https://w3c.wholetrans.org/activitystreams-core/) （译者：cdn0x12 @全译）
 * ...
 
 ## 2025年度翻译贡献者名单
