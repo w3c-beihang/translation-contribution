@@ -2,6 +2,7 @@
 
 ## 2026年度翻译贡献者名单
 
+* 2026-03-06: [HTTP headers, meta elements and language information](https://www.w3.org/International/questions/qa-http-and-lang.en.html)的志愿者翻译[HTTP标头、meta元素与语言信息](https://www.w3.org/International/questions/qa-http-and-lang.zh-hans.html)（译者：薛富侨）
 * 2026-02-17: [Activity Vocabulary](https://www.w3.org/TR/2017/REC-activitystreams-vocabulary-20170523/) 的志愿者翻译 [Activity Vocabulary](https://w3c.wholetrans.org/activitystreams-core/) （译者：cdn0x12 @全译）
 * 2026-01-21: [Activity Streams 2.0](https://www.w3.org/TR/2017/REC-activitystreams-core-20170523/) 的志愿者翻译 [Activity Streams 2.0](https://w3c.wholetrans.org/activitystreams-core/) （译者：cdn0x12 @全译）
 * ...
@@ -27,7 +28,7 @@
     - 盖伟麟（长安通信科技有限责任公司）
     - 朱锦涛、王东晖（华为技术有限公司）
     - 吴思捷（蚂蚁集团）
-* 2025-10-08: [Character encodings: Essential concepts](https://www.w3.org/International/articles/definitions-characters/index.en.html) 的志愿者翻译 [字符编码：核心概念](https://www.w3.org/International/articles/definitions-characters/index.zh-hans.html) (译者：薛富侨）
+* 2025-10-08: [Character encodings: Essential concepts](https://www.w3.org/International/articles/definitions-characters/index.en.html) 的志愿者翻译  [字符编码：核心概念](https://www.w3.org/International/articles/definitions-characters/index.zh-hans.html) (译者：薛富侨）
 * 2025-09-01: [Working with source code markup and code examples for RTL scripts](https://www.w3.org/International/questions/qa-bidi-source.en.html) 的志愿者翻译 [处理RTL文字的源代码和代码示例](https://www.w3.org/International/questions/qa-bidi-source.zh-hans.html) （译者：薛富侨）
 - 2025-09-01: [Bidirectional text & space loss](https://www.w3.org/International/questions/qa-bidi-space.en.html) 的志愿者翻译 [双向文本空格丢失](https://www.w3.org/International/questions/qa-bidi-space.zh-hans.html) （译者：薛富侨）
 - 2025-09-01: [How to use Unicode controls for bidi text](https://www.w3.org/International/questions/qa-bidi-unicode-controls.en.html) 的志愿者翻译 [如何用Unicode控制字符处理双向文本](https://www.w3.org/International/questions/qa-bidi-unicode-controls.zh-hans.html) （译者：薛富侨）
